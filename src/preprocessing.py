@@ -15,9 +15,6 @@ DATA_PATH = (
 VALID_TIERS = {"premium", "standard", "budget"}
 VALID_STATUSES = {
     "opened",
-    "closed",
-    "missing-data",
-    "coming-soon",
 }
 
 
