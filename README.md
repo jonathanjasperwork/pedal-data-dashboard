@@ -2,6 +2,8 @@
 
 A Streamlit dashboard for analyzing padel courts in Indonesia using a dataset of approximately 1,400 courts.
 
+[Padel Dashboard](https://pedal-data-dashboard.streamlit.app)
+
 ## Features
 
 - Market Analysis: Court distribution, ratings, tiers, and pricing.
